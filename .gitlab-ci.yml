@@ -1,0 +1,4 @@
+include:
+  - project: 'devops/ci-templates'
+    ref: 'v1.0.4'
+    file: '/va-base-course-autotests.yml'
